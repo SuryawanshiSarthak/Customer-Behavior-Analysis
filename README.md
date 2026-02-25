@@ -1,2 +1,2 @@
 # Customer-Behavior-Analysis
-Data Analytics project showcasing customer behavior analysis using Pyhthon,Sql and PowerBi
+End-to-end data analytics project using Python, SQL, and Power BI for data cleaning, analysis, and interactive dashboard creation.
